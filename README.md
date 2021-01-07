@@ -2,8 +2,6 @@
 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-![Top Page Screenshot](./bl)
-
 ## About the Project
 
 This project is based on the [Odin Project Blog App](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails).In this project, we got to spend some quality time with models. We did some data modeling and putting our active record knowledge to practice by building our own light weight Reddit clone.
@@ -18,7 +16,6 @@ A list of commonly used resources that I find helpful is listed in the acknowled
   - [About the Project](#about-the-project)
   - [Table of Contents](#table-of-contents)
     - [Built With](#built-with)
-  - [Live Demo](#live-demo)
   - [Getting Started](#getting-started)
   - [Author](#author)
   - [Contributing](#contributing)
@@ -31,10 +28,6 @@ A list of commonly used resources that I find helpful is listed in the acknowled
 - [Ruby on Rails](https://rubyonrails.org/)
 - [Ruby](https://www.ruby-lang.org/en/)
 - [SASS(SCSS)](https://sass-lang.com/)
-
-## Live Demo
-
-[Live Demo Link]()
 
 ## Getting Started
 
@@ -65,7 +58,7 @@ Feel free to check the [issues page](../../issues).
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b featured_micro_reddit`)
 3. Commit your Changes (`git commit -m 'Adds some nice features '`)
-4. Push to the Branch (`git push origin featured_blog_app`)
+4. Push to the Branch (`git push origin featured_micro_reddit`)
 5. Open a Pull Request
 
 ## Show your support
